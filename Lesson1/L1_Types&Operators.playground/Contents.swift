@@ -26,7 +26,7 @@ let ticketPrice = 7.5
 let allowance = 10.0
 var iceCreamPrice = 2.5
 
-var pic = #imageLiteral(resourceName: "Chloe.png")
+var pic = #imageLiteral(resourceName: "IceCream.png")
 
 if allowance >= ticketPrice + iceCreamPrice {
     print("Let's go to the movies!")
